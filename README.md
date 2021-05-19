@@ -6,5 +6,5 @@
 - Também estou me profissionalizando através de cursos em Desenvolvimento Front-End.
 - Meus principais estudos são em torno de HTML, CSS e JavaScript, porém no futuro pretendo estudar as tecnologias em torno dessas linguagens.
 
-![Linkdedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/gustavo-henrique-a584021a2/) ) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-a584021a2/) 
 
