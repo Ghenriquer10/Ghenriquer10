@@ -1,10 +1,11 @@
+
 # Hello 🖖
 # Welcome to my GitHub! 🤓
 
-My name is Gustavo Henrique Nogueira, I'm 26 years old and currently live in Brazil, Distrito Federal.
-I am studying higher education in analysis and systems development.
-I am also professionalizing myself through courses in Front-End Development.
-My main studies are around HTML, CSS and JavaScript, however in the future I intend to study the technologies around these languages.
+- My name is Gustavo Henrique Nogueira, I'm 26 years old and currently live in Brazil, Distrito Federal.
+- I am studying higher education in analysis and systems development.
+- I am also professionalizing myself through courses in Front-End Development.
+- My main studies are around HTML, CSS and JavaScript, however in the future I intend to study the technologies around these languages.
 
 - I love it ❤️👇:
 
