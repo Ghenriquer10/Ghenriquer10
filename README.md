@@ -21,4 +21,4 @@
 
 - Também estou procurando novas oportunidades de trabalho, então se você estiver interessado em meu perfil e minhas habilidades, por favor, entre em contato comigo. 🤜🤛 
 
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5561995776284)[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ghenriquer10@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5561995776284) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ghenriquer10@hotmail.com)
