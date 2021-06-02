@@ -15,11 +15,11 @@
 
 
 
-- Below my main social networks:
+- Minhas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-a584021a2/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghenriquer10) 
 
-- I am also currently looking for new job opportunities, so if you are interested in my experience, please contact me. 🤜🤛 
+- Também estou procurando novas oportunidades de trabalho, então se você estiver interessado em meu perfil e minhas habilidades, por favor, entre em contato comigo. 🤜🤛 
 
 ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
 
