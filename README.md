@@ -1,13 +1,13 @@
 
-# Hello 🖖
-# Welcome to my GitHub! 🤓
+# Olá 🖖
+# Bem-vindo ao meu GitHub! 🤓
 
-- My name is Gustavo Henrique Nogueira, I'm 26 years old and currently live in Brazil, Distrito Federal.
-- I am studying higher education in analysis and systems development.
-- I am also professionalizing myself through courses in Front-End Development.
-- My main studies are around HTML, CSS and JavaScript, however in the future I intend to study the technologies around these languages.
+- Meu nome é Gustavo Henrique Nogueira, tenho 26 anos e atualmente moro no Brasil, Distrito Federal.
+- Estou estudando ensino superior em análise e desenvolvimento de sistemas.
+- Também estou me profissionalizando através de cursos de Desenvolvimento Front-End.
+- Meus principais estudos giram em torno de HTML, CSS e JavaScript, porém no futuro pretendo estudar as tecnologias em torno dessas linguagens.
 
-- I love it ❤️👇:
+- Ferramentas preferidas! ❤️👇:
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
