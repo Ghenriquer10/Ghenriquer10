@@ -13,6 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghenriquer10&show_icons=true&theme=maroongold&layout=default)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghenriquer10&layout=compact&theme=maroongold)](https://github.com/Ghenriquer10)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ghenriquer10)](https://github.com/Ghenriquer10)
+
 
 
 
