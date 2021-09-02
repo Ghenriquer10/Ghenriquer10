@@ -19,7 +19,9 @@
 </div>
 
 <div>
-  ![Snake animation](https://github.com/Ghenriquer10)
+  
+  ![Snake animation](https://github.com/Ghenriquer10/Ghenriquer10/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 - Minhas redes sociais:
