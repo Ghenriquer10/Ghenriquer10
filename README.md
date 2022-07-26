@@ -5,7 +5,7 @@
 - Meu nome é Gustavo Henrique Nogueira, tenho 28 anos e atualmente moro no Brasil, Distrito Federal.
 - Sou formado em análise e desenvolvimento de sistemas.
 - Também estou me profissionalizando através de cursos em Desenvolvimento Front-End.
-- Meus principais estudos giram em torno de HTML, CSS, JavaScript, React.js e atualmente estou me aprofundando em Node.js, TypeScript, Next.js, Prisma ORM e Postgres.
+- Meus principais estudos giram em torno de HTML, CSS, JavaScript, React.js e atualmente estou me aprofundando em Node.js, TypeScript, Next.js, Prisma e Postgres.
 
 - Love it! ❤️👇:
 
