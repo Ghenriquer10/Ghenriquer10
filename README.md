@@ -18,12 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghenriquer10&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div>
-  
-  ![Snake animation](https://github.com/Ghenriquer10/Ghenriquer10/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-a584021a2/) [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghenriquer10) 
 
 - Também estou procurando novas oportunidades de trabalho, então se você estiver interessado em meu perfil e minhas habilidades, por favor, entre em contato comigo. 🤜🤛 
