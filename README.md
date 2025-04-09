@@ -2,10 +2,11 @@
 # Olá 🖖
 # Bem-vindo ao meu GitHub! 🤓
 
-- Meu nome é Gustavo Henrique Nogueira, tenho 28 anos e atualmente moro no Brasil, Distrito Federal.
+- Meu nome é Gustavo Henrique Nogueira, tenho 31 anos e atualmente moro no Brasil, Distrito Federal.
 - Sou formado em análise e desenvolvimento de sistemas.
-- Também estou me profissionalizando através de cursos em Desenvolvimento Front-End.
-- Meus principais estudos giram em torno de HTML, CSS, JavaScript, React.js e atualmente estou me aprofundando em Node.js, TypeScript, Next.js, Prisma e Postgres.
+- Trabalho como desenvolvedor de sistemas no Senado Federal, em Brasília.
+- Também estou me profissionalizando através de cursos em Desenvolvimento Front-End e Backend
+- Meus principais conhecimentos giram em torno de Python (Django) no Backend e React.js no Frontend.
 
 - Love it! ❤️👇:
 
